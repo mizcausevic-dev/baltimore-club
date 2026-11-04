@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3147,
+      "sha256": "3409346593f5c343473d467b318de96c324a94957e47dc1d65cb8a4c55cde8e3"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1596,
-      "sha256": "22052bcfc8743b1c3cd3e0385dbb9bf9711575f191c54eb1109be43c26187ac6"
+      "bytes": 1818,
+      "sha256": "9cd9bb5da31b586baded7e881ba5f97aa169420d358f44bc85beddb2ec60e017"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/baltimore-club-midi.zip",
-      "bytes": 34937,
-      "sha256": "69f76f88dd794efd2879b5ed06d48b18454d4dea6ed25c756d726770b915ab28"
+      "bytes": 36488,
+      "sha256": "415fa9b67b5e203be58e463b306fd9e50d87b48d743905d393d24124f5b16cd2"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1052,
-      "sha256": "8f3f462d7795f9517abf119c4b92a406c4f218e97764f3eada43b795cde0b1de"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2986,
-      "sha256": "2d3aec6628a198fa2afddbd87629ccd4b45b4a6394a969fe19ffe1b90ecfa3ab"
+      "bytes": 1135,
+      "sha256": "9891f02ab13623755d8c8934a772922e7b53db429cb27b2aa3639eac599dac11"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47235,
-      "sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5"
+      "bytes": 47412,
+      "sha256": "a3156f76517f4653a5a51ed4786dbc3390adf3b976691399e2d7b2570f69e54f"
     },
     {
       "path": "tools/validate_release.py",
