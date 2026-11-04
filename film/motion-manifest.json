@@ -1,0 +1,26 @@
+{
+  "title": "Baltimore Club",
+  "study": "bc01",
+  "bpm": 130,
+  "source_audio": "preview/baltimore-club-simple-synth-preview.mp3",
+  "source_audio_sha256": "a61a104ba2650a50546b0c073a23a3c86751b61abcd6789ec1ca69e419b4f6c3",
+  "source_midi": "midi/bc01-sidechain-alley/bc01-sidechain-alley-combined.mid",
+  "source_midi_sha256": "e1167ebd2fa2c5f40e727506c1cc4af0b97c1f0543a6ca5fc845abac93c00e38",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "32cae79330474eb3eab048b30ad7db7b1f607d0b92372a887b9f37389e08d152",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "d00fa059ecc6567c4b7018454cca40c142ae74a5e6d3d1bbbdab708e2ee0bcc3",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "c94bab0f15acda38da4756f8b3dbccaecaf5550e1c2d5e52efde7aa8ed65a74f",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
