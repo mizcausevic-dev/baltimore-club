@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bc01,Sidechain Alley,pack-local equal-tempered pitch collection,C,130,4/4,480,32,61440,midi/bc01-sidechain-alley/bc01-sidechain-alley-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bc02,Flash Count,pack-local equal-tempered pitch collection,D#,130,4/4,480,32,61440,midi/bc02-flash-count/bc02-flash-count-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bc03,Corner Answer,pack-local equal-tempered pitch collection,F#,130,4/4,480,32,61440,midi/bc03-corner-answer/bc03-corner-answer-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bc04,Sixteen Back,pack-local equal-tempered pitch collection,C#,130,4/4,480,32,61440,midi/bc04-sixteen-back/bc04-sixteen-back-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

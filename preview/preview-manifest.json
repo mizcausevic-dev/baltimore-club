@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/baltimore-club-simple-synth-preview.mp3",
+  "preview_sha256": "a61a104ba2650a50546b0c073a23a3c86751b61abcd6789ec1ca69e419b4f6c3",
+  "source_midi_path": "midi/bc01-sidechain-alley/bc01-sidechain-alley-combined.mid",
+  "source_midi_sha256": "e1167ebd2fa2c5f40e727506c1cc4af0b97c1f0543a6ca5fc845abac93c00e38",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "bc01",
+    "start_seconds": 0,
+    "end_seconds": 59.077
+  },
+  "measurement": {
+    "sample_peak": 0.182211,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
