@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "baltimore-club",
-  "source_builder_sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5",
+  "source_builder_sha256": "bf6021bc7aca897b9b6231eecf0d76dab84bad7d427c53d8d58391605cf619f4",
   "commands": [
     "python tools/build_release.py --pack baltimore-club",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-04T03:05:43.156227+00:00",
+  "run_time_utc": "2026-11-06T17:42:11.218967+00:00",
   "python": "3.14.0"
 }
