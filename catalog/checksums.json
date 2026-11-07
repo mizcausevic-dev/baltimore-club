@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/baltimore-club-midi.zip",
-      "bytes": 36066,
-      "sha256": "91b43bf1dced32463b69d2843ebb9a5119f6b10726c070f4bd5a05438f021ce3"
+      "bytes": 38572,
+      "sha256": "d7ccff910b021ac7831ead1bd700acc16256d9dffbe273f0da869bba0285041c"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10282,
-      "sha256": "d9bbebbdeb3d0bbb464426c166703c2e501ffab8fc2c423c522da0374addd63d"
+      "bytes": 10472,
+      "sha256": "23c52503cf2fee009b8e152faa98f05dcbb3ead5085599890cfe0c7650c2432e"
     },
     {
       "path": "midi/bc01-sidechain-alley/bc01-sidechain-alley-combined.mid",
@@ -257,6 +257,11 @@
       "sha256": "15397439a84ca7df0e5197c454bc269b4bcc00cab4763c10b2c115121f5d1a09"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 785,
       "sha256": "0b67befc4c25cde0f9785a94a24b2030fd13f64baa0fdf36d4afbe94018c2bc1"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3365,
-      "sha256": "781c4982eecc285ddb788ac1323926c2bbfd4a150a7481cd3fb9cf7ca83aea2e"
+      "bytes": 3480,
+      "sha256": "d5cc7cbe8b60fd81af1a680cae06c2010a00c86636140c15806cb7e1daf2eaf3"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
